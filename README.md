@@ -4,12 +4,15 @@ Bar chart and scatter plot implementation using React JS
 
 ### Installation
 
-````bash
+```bash
 git clone https://github.com/rupamdixit08/web-application-barChart-scatterPlot.git
+```
+
 # After Cloning the app please install the required dependencies by
+
 ```bash
 npm install
-````
+```
 
 ## Available Scripts
 
