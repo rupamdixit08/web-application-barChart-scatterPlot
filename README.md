@@ -1,8 +1,10 @@
-## Bar chart and scatter plot
+### Bar chart and scatter plot
 
 Bar chart and scatter plot implementation using React JS
 
 ### Installation
+
+To clone the repository
 
 ```bash
 git clone https://github.com/rupamdixit08/web-application-barChart-scatterPlot.git
