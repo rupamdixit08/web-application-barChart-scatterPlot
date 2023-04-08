@@ -35,6 +35,7 @@ You may also see any lint errors in the console.
 ### `npm run eject`
 #### `Screenshots`
 ### `Bar chart`
-![Screenshot (88)](https://user-images.githubusercontent.com/90315216/230542086-2b2384b2-69c3-48ce-a6cd-a59079676ce3.png)
+ ![Screenshot (91)](https://user-images.githubusercontent.com/90315216/230701663-e0a63d47-d7cb-4cc5-b287-9694425f2a2d.png)
+
 ### `Scatter Plot`
 ![Screenshot (89)](https://user-images.githubusercontent.com/90315216/230542121-731ca9c5-839e-4187-ae2a-e516b040b9ea.png)
