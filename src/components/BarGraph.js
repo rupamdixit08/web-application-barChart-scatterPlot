@@ -6,6 +6,7 @@ import {
   CartesianGrid,
   Tooltip,
   Legend,
+  Bar,
   ResponsiveContainer,
 } from "recharts";
 const data = [
@@ -2695,6 +2696,7 @@ const BarGraph = () => {
           bottom: 5,
         }}
       >
+        <Bar dataKey="Alcohol" fill="green" />
         <CartesianGrid strokeDasharray="3 3" />
         <XAxis dataKey="Alcohol" />
         <YAxis dataKey="Malic Acid" />
